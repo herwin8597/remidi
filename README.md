@@ -1,3 +1,1 @@
-# APeK
-Aplikasi Penggajian Karyawan Berbasis Web
-# amikom
+15.11.8597
